@@ -1,0 +1,15 @@
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\bin\Debug\net6.0\Lesson11group1.exe
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\bin\Debug\net6.0\Lesson11group1.deps.json
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\bin\Debug\net6.0\Lesson11group1.runtimeconfig.json
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\bin\Debug\net6.0\Lesson11group1.dll
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\bin\Debug\net6.0\ref\Lesson11group1.dll
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\bin\Debug\net6.0\Lesson11group1.pdb
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\Lesson11group1.csproj.AssemblyReference.cache
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\Lesson11group1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\Lesson11group1.AssemblyInfoInputs.cache
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\Lesson11group1.AssemblyInfo.cs
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\Lesson11group1.csproj.CoreCompileInputs.cache
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\Lesson11group1.dll
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\ref\Lesson11group1.dll
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\Lesson11group1.pdb
+C:\Users\ברלין שולמית\Desktop\Lesson11group1\Lesson11group1\obj\Debug\net6.0\Lesson11group1.genruntimeconfig.cache

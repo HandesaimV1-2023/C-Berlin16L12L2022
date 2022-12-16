@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<events>
+  <event name="ערב לביבותa" date="ראשון" type="משפחה גרעינית">
+    <location>סבתא הלר</location>
+    <bringing>עוגה חלבית</bringing>
+    <members>
+      <person>מיכל</person>
+      <person>נעמי</person>
+    </members>
+  </event>
+  <event name="מסיבת חנוכה חברותb" date="שני" type="חברות">
+    <location>אסתי הירשמן</location>
+    <bringing>וופל בלגי</bringing>
+    <members>
+      <person>נעמי</person>
+    </members>
+  </event>
+  <event name="מסיבת מסלול" type="חברות">
+    <location>סמינר</location>
+  </event>
+  <event name="מסיבת מסלול" type="חברות">
+    <bringing />
+    <location>סמינר</location>
+  </event>
+</events>
